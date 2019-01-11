@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+A tutorial for all kinds of people. Anywhere from the SME to the Newbie.
