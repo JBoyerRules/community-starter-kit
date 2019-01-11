@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+THis is a quick tutorial so you can become familiar with GitHub.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It takes you through the many functions of Github allowing you to become familiar by taking action.
 
 ## Getting started
 
